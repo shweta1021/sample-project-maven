@@ -1,4 +1,3 @@
-created pom.xml
 checking for git merge
 developer1
 
